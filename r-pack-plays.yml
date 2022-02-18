@@ -1,0 +1,35 @@
+- hosts: localhost
+  connection: local
+  tasks:
+    - name: install R pakcages
+      cran: name={{ item }} state=present
+      with_items:
+        - dplyr
+        - ggplot2
+        - purrr
+        - tsbox
+        - seasonal
+        - dygraphs
+        - echarts4r
+        - jsonlite
+        - RPostgres
+        - data.table
+        - dm
+        - httr
+        - xts
+        - zoo
+        - DBI
+        - readxl
+        - openxlsx
+        - knitr
+        - rmarkdown
+        - testthat
+        - xts
+        - xml2
+        - rvest
+        - curl
+        - forecast
+        - shiny
+        - RSQLite
+        - shinydashboard
+        - shinycssloaders 
