@@ -32,4 +32,42 @@
         - shiny
         - RSQLite
         - shinydashboard
-        - shinycssloaders 
+        - shinycssloaders
+        - devtools
+        - grid
+        - gridExtra
+        - kableExtra
+        - htmlwidgets
+        - nlme
+        - mlr3
+        - pkgdown
+        - bookdown
+        - quanteda
+        - Rcpp
+        - readr
+        - remotes
+        - reticulate
+        - RJSDMX
+        - ssh
+        - stopwords
+        - tempdisagg
+        - tibble
+        - viridis
+        - viridisLite
+        - xtable
+        - yaml 
+        - cowsay
+        - languageserver
+        - shinythemes
+        - shinyjs
+        - xaringan
+        - keras
+        - purrr
+        - pins
+        - readr
+        - quanteda.textmodels
+        - caret 
+        - openxlsx
+        - readx
+        - covr
+        - distill
