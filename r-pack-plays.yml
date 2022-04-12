@@ -63,11 +63,14 @@
         - xaringan
         - keras
         - purrr
-        - pins
         - readr
         - quanteda.textmodels
         - caret 
         - openxlsx
-        - readx
         - covr
         - distill
+        - blogdown
+        - emojifont
+        - mockery
+        - indiedown
+        - magick
