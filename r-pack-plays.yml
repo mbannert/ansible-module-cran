@@ -74,3 +74,5 @@
         - mockery
         - indiedown
         - magick
+        - tufte
+        - microbenchmark
